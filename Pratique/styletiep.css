@@ -1,0 +1,23 @@
+/* Feuille de styles CSS */
+  /*******************/
+h1 {
+    color: rgb(0,0,255);
+    font-size: 3em;
+  }
+  
+    /*******************/
+  figure {
+    text-align:center;
+  }
+  
+  /*******************/
+  ul {
+    border: 1px solid beige;
+    box-shadow: 6px 6px 0px blue;
+  }
+  
+    /*******************/
+  a:hover {
+    font-weight:bold;
+  }
+  
